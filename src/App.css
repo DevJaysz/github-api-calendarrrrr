@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gihub {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.git__container,
+.git__wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
