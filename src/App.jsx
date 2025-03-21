@@ -3,7 +3,7 @@ import GitHubCalendar from "react-github-calendar";
 import "./App.css";
 
 const App = () => {
-  const username = "jaysus-dev";
+  const username = "DevJaysz";
   const [recentCommits, setRecentCommits] = useState([]);
 
   const timeAgo = (date) => {
